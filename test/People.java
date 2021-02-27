@@ -5,6 +5,7 @@
 public class People {
     private Integer id;
     private String name;
+	private int idd;
 
     public Integer getId() {
         return id;
