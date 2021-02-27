@@ -6,6 +6,8 @@ public class People {
     private Integer id;
     private String name;
 	private int idd;
+	
+	psvm
 
     public Integer getId() {
         return id;
