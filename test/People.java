@@ -5,9 +5,11 @@
 public class People {
     private Integer id;
     private String name;
-	private int idd;
-	
-	psvm
+
+
+
+psvm
+
 
     public Integer getId() {
         return id;
